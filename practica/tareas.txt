@@ -1,0 +1,5 @@
+1: matar a mis patos
+2: cocinar a mis patos
+3: comemerme a mis patos
+4: hacer la tarea del profe luis
+5: no hacer la tarea del profe luis
